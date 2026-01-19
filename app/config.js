@@ -31,10 +31,12 @@ const products = [
             { value: 'panel-unli', name: 'Paket ∞ GB', price: 6000, specs: 'CPU Load: ∞%, Memory: ∞GB', badge: 'Termurah' }
         ]
     },
+    {
         category: 'Paket Admin panel Pterodactyl',
         items: [
             { value: 'admin-panel', name: 'Paket admin-panel', price: 9000, specs: 'VPS Digital Ocean 16GB Core8', badge: 'Termurah' }
         ]
+    }
 ];
 
 const faqData = [
